@@ -3,7 +3,7 @@
 A comparison of the testing accuracy of various models using breast cancer data
 # Prerequisites
 ## Software
-Python 3.6.5 Anaconda Distribution -- Jupyter Notebook
+Python 3 Anaconda Distribution -- Jupyter Notebook
 ## Dataset
 Links To the Kaggle Dataset: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 OR
