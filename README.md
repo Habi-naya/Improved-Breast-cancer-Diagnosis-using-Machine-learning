@@ -1,9 +1,9 @@
 # Improved-Breast-cancer-Diagnosis-using-Machine-learning
-#Overview 
+# Overview 
 A comparison of the testing accuracy of various models using breast cancer data
-#Prerequisites
+# Prerequisites
 Python 3.6.5 Anaconda Distribution -- Jupyter Notebook
-#Running Code
+# Running Code
 Dataset Link - https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
 OR
 Links To the Kaggle Dataset: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
