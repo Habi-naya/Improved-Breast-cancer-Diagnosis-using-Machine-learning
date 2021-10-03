@@ -13,4 +13,4 @@ Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.ed
 # Running Code
 ### Download any "ONE" of the dataset and save the downloaded dataset as "data1" 
 ### Upload code and downloaded dataset onto the Jupyter Notebook
-### give "Run All"
+### Give "Run All"
