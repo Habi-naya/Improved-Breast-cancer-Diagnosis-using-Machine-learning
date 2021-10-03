@@ -38,7 +38,7 @@ from sklearn.metrics import roc_curve
 
 
 #Loading the cancer dataset in csv format 
-df = pd.read_csv('data1.csv')
+df = pd.read_csv('data.csv')
 df.head(7)
 
 
